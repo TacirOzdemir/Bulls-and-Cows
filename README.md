@@ -1,6 +1,6 @@
 # Bulls and Cows
 
-C++ word-guessing game using Qt
+C++ word-guessing game using Qt and ZeroMQ.
 
 ![Overview](https://raw.githubusercontent.com/TacirOzdemir/Bulls-and-Cows/master/Image.png)
 
@@ -15,7 +15,7 @@ There are three main components; Broker, Client and Server.
 7. Server responds with hidden word
 8. Client plays game
 
-![Bulls_Cows_ZMQ.png](https://bitbucket.org/repo/kMG5M6q/images/3741602801-Bulls_Cows_ZMQ.png)
+![Bulls_Cows_ZMQ.png](https://raw.githubusercontent.com/TacirOzdemir/Bulls-and-Cows/master/Bulls_Cows_ZMQ.png)
 
 Player tries to guess the hidden word.
 
