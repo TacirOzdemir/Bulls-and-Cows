@@ -2,7 +2,7 @@
 
 C++ word-guessing game using Qt and ZeroMQ.
 
-![Overview](https://raw.githubusercontent.com/TacirOzdemir/Bulls-and-Cows/master/Image.png)
+![Logo](https://raw.githubusercontent.com/TacirOzdemir/Bulls-and-Cows/master/BullsCows_Logo.png)
 
 There are three main components; Broker, Client and Server.
 
